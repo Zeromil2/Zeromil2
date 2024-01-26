@@ -8,11 +8,11 @@
   Desenvolvedor e estudante de Ciência da Computação do Centro de Informática (CIn) - UFPE
 </p>
 
-<p align='left'>
-  <a href="https://github.com/zeromil2">
-          <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeromil2&layout=compact&langs_count=7&theme=dark"/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zeromil2&show_icons=true&count_private=true&theme=dark" width="400"></a>
-</p>
+<div style="display: inline_flex">
+    <a href="https://github.com/artursanntos">
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=zeromil2&show_icons=true&theme=dark"/>
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeromil2&show_icons=true&theme=dark&layout=compact"/>
+  </div>
 
 
 ####
