@@ -10,8 +10,8 @@
 
 <div style="display: inline_flex">
     <a href="https://github.com/Zeromil2">
-    <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=zeromil2&show_icons=true&theme=dark"/>
-    <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeromil2&show_icons=true&theme=dark&layout=compact"/>
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=Zeromil2&show_icons=true&theme=dark"/>
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeromil2&show_icons=true&theme=dark&layout=compact"/>
   </div>
 
 
