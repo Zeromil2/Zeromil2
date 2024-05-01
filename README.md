@@ -21,7 +21,7 @@
 <p>
   PT-BR 🇧🇷: Opa! Atualmente sou um estudante do CIn no curso de Ciência da Computação. Não sei como, mas tô sempre enfretando um leão por dia e codando enquanto me esforço ao máximo que posso. Além de codar, gosto de ler livros e jogar no videogame. E no meu tempo de lazer gosta de conversar com amigos e familiares. Bem, querendo falar comigo, estarei sempre disponível. Até logo!
 </p>
-<p> EN-US 🇺🇸: Hey there! I am currently a student at CIn, studying Computer Science. I don't know how, but I'm always facing a lion per day and coding while struggling as hard as I can. In addition to coding, I like reading books and playing video games. And in my leisure time I like to talk to friends and family. Well, if you want to talk to me, I will always be available. See you later!
+<p> EN-US 🇺🇸: <i>Hey there! I am currently a student at CIn, studying Computer Science. I don't know how, but I'm always facing a lion per day and coding while struggling as hard as I can. In addition to coding, I like reading books and playing video games. And in my leisure time I like to talk to friends and family. Well, if you want to talk to me, I will always be available. See you later!</i>
 </p>
 
 <h2>𝘚𝘬𝘪𝘭𝘭𝘴 💻 </h2>
